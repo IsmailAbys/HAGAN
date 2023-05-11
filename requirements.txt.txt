@@ -1,0 +1,6 @@
+scikit-image
+nibabel
+nilearn
+tensorboardX
+SimpleITK
+matplotlib==3.7.1
